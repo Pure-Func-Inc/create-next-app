@@ -1,0 +1,1 @@
+# @purefuncinc/create-next-app
